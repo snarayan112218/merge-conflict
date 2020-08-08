@@ -2,14 +2,7 @@ pseudo code
 {
 Initial Function()
 {
-  //Sample Code
+  My master code is here
 }
-
-Initial Security()
-{
- //Sample Code
-}
-
-
 
 }
